@@ -1,0 +1,5 @@
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.BusinessLayer\bin\Debug\Gameosoftv2.BusinessLayer.dll
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.BusinessLayer\bin\Debug\Gameosoftv2.BusinessLayer.pdb
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.BusinessLayer\obj\Debug\Gameosoftv2.BusinessLayer.dll
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.BusinessLayer\obj\Debug\Gameosoftv2.BusinessLayer.pdb
+C:\Users\prabhu sob\Documents\Visual Studio 2013\Projects\Gameosoftv2\Gameosoftv2.BusinessLayer\obj\Debug\Gameosoftv2.BusinessLayer.csprojResolveAssemblyReference.cache

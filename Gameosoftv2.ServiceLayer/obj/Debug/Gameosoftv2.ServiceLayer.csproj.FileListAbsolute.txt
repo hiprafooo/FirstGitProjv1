@@ -1,0 +1,7 @@
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.ServiceLayer\bin\Debug\Gameosoftv2.ServiceLayer.dll
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.ServiceLayer\bin\Debug\Gameosoftv2.ServiceLayer.pdb
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.ServiceLayer\bin\Debug\Gameosoftv2.BusinessLayer.dll
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.ServiceLayer\bin\Debug\Gameosoftv2.BusinessLayer.pdb
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.ServiceLayer\obj\Debug\Gameosoftv2.ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.ServiceLayer\obj\Debug\Gameosoftv2.ServiceLayer.dll
+C:\Users\prabhu sob\documents\visual studio 2013\Projects\Gameosoftv2\Gameosoftv2.ServiceLayer\obj\Debug\Gameosoftv2.ServiceLayer.pdb
